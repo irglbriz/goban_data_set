@@ -1,0 +1,17 @@
+<annotation>
+    <folder>segments</folder>
+    <filename>213_w_IMG_0705.png</filename>
+    <size>
+        <width>20</width>
+        <height>20</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>empty</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+    </object>
+</annotation>
